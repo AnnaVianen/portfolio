@@ -216,10 +216,65 @@ article p {
 }
 
 
+.opdracht {
+    width: 1109px;
+    height: 372px;
+}
+
+.laatste {
+    margin-top: 450px;
+}
 
 
+.proces3 {
+    width: 499px;
+    height: 351px;
+    right: 100px;
+    margin-top: -620px;
+}
 
+.oplossing4 {
+    width: 515px;
+    height: 364px;
+    right: 100px;
+    margin-top: -600px;
+}
 
+.oplossing5 {
+    width: 493px;
+    height: 349px;
+    right: 100px;
+    margin-top: -200px;
+}
 
+.activiteit {
+    
+    right: 100px;
+    margin-top: -250px;
+}
 
+.detail {
+    width: 328px;
+    height: 392px;
+    
+    margin-top: 500px;
+}
+
+.favo {
+    width: 411px;
+    height: 231px;
+    right: 550px;
+    margin-top: 180px;
+}
+
+.planning {
+    width: 411px;
+    height: 413px;
+    right: 100px;
+    margin-top: 180px;
+}
+
+.onder {
+    margin-bottom: 500px;
+}
 
